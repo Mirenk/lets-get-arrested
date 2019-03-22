@@ -1,4 +1,4 @@
-- [English](README.md)
+- [English](README.en.md)
 
 # La oss bli arrestert-prosjekt
 

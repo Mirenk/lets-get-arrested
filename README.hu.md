@@ -1,4 +1,4 @@
-- [English](README.md)
+- [English](README.en.md)
 
 # "Vágd magadat sittre" projekt
 
